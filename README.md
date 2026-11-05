@@ -1,53 +1,86 @@
-<h1 align="center">Hi 👋, I'm [Bayan]</h1>
-<h3 align="center">Frontend Developer crafting clean, responsive, and accessible web interfaces</h3>
+<h1 align="center">Bayan</h1>
+<h3 align="center">UI/UX & Web Designer · Design Systems · Government Digital Services</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/bayanalhashiim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:baynalhashim@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://bayan-alhashim.netlify.app."><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <i>I turn complex government workflows into clean, intuitive, Arabic-first digital experiences —<br/>designed in Figma, built for the browser, and shipped as working products.</i>
 </p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎨 Frontend developer who loves turning designs into fast, pixel-perfect interfaces
-- 🔭 Currently working on **[Project name]**
-- 🌱 Learning **[e.g. TypeScript, Next.js, animations]**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, UI/UX**
-- 📍 Based in **[City, Country]** · Open to **[full-time / freelance / internships]**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,git,github,figma,vscode,vercel&perline=7" alt="Tech stack"/>
-</p>
-
-<!-- Edit the list after "i=" to match your real skills. Full icon list: https://skillicons.dev -->
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Built with | Links |
-|---|---|---|---|
-| **[Project 1]** | One line explaining the problem it solves | React · Tailwind | [Live](https://example.com) · [Code](https://github.com/bayanbb/project-1) |
-| **[Project 2]** | One line explaining the problem it solves | HTML · CSS · JS | [Live](https://example.com) · [Code](https://github.com/bayanbb/project-2) |
-| **[Project 3]** | One line explaining the problem it solves | Next.js · TypeScript | [Live](https://example.com) · [Code](https://github.com/bayanbb/project-3) |
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bayanbb&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayanbb&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <a href="https://www.linkedin.com/in/bayanalhashiim"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Open_to-Full--time_%26_Freelance-2EA44F?style=for-the-badge" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Based_in-Riyadh,_Saudi_Arabia-555555?style=for-the-badge" alt="Riyadh"/>
 </p>
-
-<!-- Optional: delete this section if the cards fail to load or you prefer a cleaner look -->
 
 ---
 
-<p align="center"><i>Thanks for visiting — feel free to reach out! ✨</i></p>
+## ✦ About Me
+
+I'm a web designer who doesn't stop at the mockup. I design end-to-end digital systems — service portals, operational dashboards, admin panels, and approval workflows — and bring them to life as fully working interfaces.
+
+My focus is the public sector: taking services that real employees and citizens depend on every day, and redesigning them so they feel simple, fast, and trustworthy. Every product I build is **Arabic-first (RTL)**, **data-driven**, and grounded in a **consistent design system**.
+
+---
+
+## ✦ What I Do
+
+| | |
+|---|---|
+| 🎨 **UI/UX Design** | User flows, wireframes, high-fidelity interfaces, and interactive prototypes in Figma |
+| 🧩 **Design Systems** | Reusable components, visual language, and consistent patterns across multiple products |
+| 📊 **Dashboards & Data Visualization** | KPI dashboards and performance platforms that make data readable at a glance |
+| 🏛️ **Digital Service Design** | Redesigning government services into clear, end-to-end digital journeys |
+| 💻 **Design-to-Code** | Turning designs into responsive, production-ready web interfaces |
+
+---
+
+## ✦ Selected Work
+
+### 🏛️ Unified Services Portal (SSO)
+A single sign-on gateway that brings an organization's services into one place, with a personalized **"My Space"** where each user pins and orders their most-used services.
+`UX Strategy` `Personalization` `Information Architecture` · [View Project →](https://github.com/bayanbb/aseer2-sso-portal)
+
+### 🌳 Facility Operations Platform
+An operations hub for managing parks and public facilities — live KPI dashboard, quick actions, activity tracking per site, and status distribution charts.
+`Dashboard Design` `Data Visualization` `Chart.js` · [View Project →](https://github.com/bayanbb/facility)
+
+### 🚗 Parking Permits System
+A complete permit lifecycle in one product: application, review and approval, sticker handover, and a reporting dashboard with one-click Excel export.
+`Workflow Design` `Multi-role UX` `Reporting` · [View Project →](https://github.com/bayanbb/-parking-permits)
+
+### 📈 Strategic Performance Platform
+A leadership-level platform tracking strategic indicators across agencies and departments, designed for fast executive decision-making.
+`Executive Dashboards` `KPI Design` · [View Project →](https://github.com/bayanbb/Municipal-Creativity)
+
+### 🤝 Sharek — Super Admin Dashboard
+The control center for a community participation platform, giving administrators full visibility over responses, designs, and recent activity.
+`Admin UX` `Data Management` · [View Project →](https://github.com/bayanbb/sharek-admin)
+
+### 🧠 Systems Redesign Workshop Board
+A real-time collaborative board built to run a systems-redesign workshop, with drag-and-drop cards synced live across participants.
+`Collaboration Tools` `Real-time` `Firebase` · [View Project →](https://github.com/bayanbb/systems-board)
+
+---
+
+## ✦ My Design Process
+
+**Discover** → understand users, pain points, and the real workflow  
+**Structure** → map journeys, roles, and information architecture  
+**Design** → build the interface on a consistent design system in Figma  
+**Build** → turn the design into a working, responsive web product  
+**Refine** → test with real users and iterate
+
+---
+
+## ✦ Toolkit
+
+| Area | Tools |
+|---|---|
+| **Design & Prototyping** | Figma (design systems, components, prototyping) · Adobe Illustrator (icons & vector assets) · Canva (brand & marketing assets) |
+| **Frontend** | HTML · CSS · JavaScript |
+| **Libraries & Services** | Chart.js · Firebase (Firestore) · SheetJS · SortableJS · Lucide Icons |
+| **Workflow** | Visual Studio Code · Git · GitHub · Claude AI |
+
+---
+
+<p align="center"><b>Have a system that needs to feel simpler? Let's design it together.</b><br/>
+<a href="https://www.linkedin.com/in/bayanalhashiim">linkedin.com/in/bayanalhashiim</a></p>
