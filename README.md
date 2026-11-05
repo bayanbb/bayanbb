@@ -1,5 +1,6 @@
-<h1 align="center">Bayan</h1>
-<h3 align="center">UI/UX & Web Designer · Design Systems · Government Digital Services</h3>
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Bayan, UI/UX & Web Designer"/>
+</p>
 
 <p align="center">
   <i>I turn complex government workflows into clean, intuitive, Arabic-first digital experiences —<br/>designed in Figma, built for the browser, and shipped as working products.</i>
@@ -7,6 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bayanalhashiim"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:baynalhashim@gmail.com"><img src="https://img.shields.io/badge/Email-baynalhashim@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Open_to-Full--time_%26_Freelance-2EA44F?style=for-the-badge" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Based_in-Riyadh,_Saudi_Arabia-555555?style=for-the-badge" alt="Riyadh"/>
 </p>
@@ -23,7 +25,7 @@ My focus is the public sector: taking services that real employees and citizens 
 
 ## ✦ What I Do
 
-| | |
+| Expertise | What it covers |
 |---|---|
 | 🎨 **UI/UX Design** | User flows, wireframes, high-fidelity interfaces, and interactive prototypes in Figma |
 | 🧩 **Design Systems** | Reusable components, visual language, and consistent patterns across multiple products |
@@ -37,27 +39,27 @@ My focus is the public sector: taking services that real employees and citizens 
 
 ### 🏛️ Unified Services Portal (SSO)
 A single sign-on gateway that brings an organization's services into one place, with a personalized **"My Space"** where each user pins and orders their most-used services.
-`UX Strategy` `Personalization` `Information Architecture` · [View Project →](https://github.com/bayanbb/aseer2-sso-portal)
+`UX Strategy` `Personalization` `Information Architecture` · [Live Demo](https://bayanbb.github.io/aseer-sso/) · [Code](https://github.com/bayanbb/aseer-sso)
 
 ### 🌳 Facility Operations Platform
 An operations hub for managing parks and public facilities — live KPI dashboard, quick actions, activity tracking per site, and status distribution charts.
-`Dashboard Design` `Data Visualization` `Chart.js` · [View Project →](https://github.com/bayanbb/facility)
+`Dashboard Design` `Data Visualization` `Chart.js` · [Live Demo](https://bayanbb.github.io/facility/) · [Code](https://github.com/bayanbb/facility)
 
 ### 🚗 Parking Permits System
 A complete permit lifecycle in one product: application, review and approval, sticker handover, and a reporting dashboard with one-click Excel export.
-`Workflow Design` `Multi-role UX` `Reporting` · [View Project →](https://github.com/bayanbb/-parking-permits)
+`Workflow Design` `Multi-role UX` `Reporting` · [Live Demo](https://bayanbb.github.io/-parking-permits/) · [Code](https://github.com/bayanbb/-parking-permits)
 
 ### 📈 Strategic Performance Platform
 A leadership-level platform tracking strategic indicators across agencies and departments, designed for fast executive decision-making.
-`Executive Dashboards` `KPI Design` · [View Project →](https://github.com/bayanbb/Municipal-Creativity)
+`Executive Dashboards` `KPI Design` · [Live Demo](https://bayanbb.github.io/Municipal-Creativity/) · [Code](https://github.com/bayanbb/Municipal-Creativity)
 
 ### 🤝 Sharek — Super Admin Dashboard
 The control center for a community participation platform, giving administrators full visibility over responses, designs, and recent activity.
-`Admin UX` `Data Management` · [View Project →](https://github.com/bayanbb/sharek-admin)
+`Admin UX` `Data Management` · [Live Demo](https://bayanbb.github.io/sharek-admin/) · [Code](https://github.com/bayanbb/sharek-admin)
 
 ### 🧠 Systems Redesign Workshop Board
 A real-time collaborative board built to run a systems-redesign workshop, with drag-and-drop cards synced live across participants.
-`Collaboration Tools` `Real-time` `Firebase` · [View Project →](https://github.com/bayanbb/systems-board)
+`Collaboration Tools` `Real-time` `Firebase` · [Live Demo](https://bayanbb.github.io/systems-board/) · [Code](https://github.com/bayanbb/systems-board)
 
 ---
 
@@ -83,4 +85,4 @@ A real-time collaborative board built to run a systems-redesign workshop, with d
 ---
 
 <p align="center"><b>Have a system that needs to feel simpler? Let's design it together.</b><br/>
-<a href="https://www.linkedin.com/in/bayanalhashiim">linkedin.com/in/bayanalhashiim</a></p>
+<a href="https://www.linkedin.com/in/bayanalhashiim">LinkedIn</a> · <a href="mailto:baynalhashim@gmail.com">baynalhashim@gmail.com</a></p>
