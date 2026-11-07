@@ -84,6 +84,15 @@ A real-time collaborative board built to run a systems-redesign workshop, with d
 | **Workflow** | Visual Studio Code · Git · GitHub · Claude AI |
 
 ---
+## ✦ My Contributions
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayanbb/bayanbb/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/bayanbb/bayanbb/output/github-snake.svg" alt="A pastel snake eating my GitHub contributions"/>
+  </picture>
+</p>
+
+---
 <p align="center"><b>Have a system that needs to feel simpler? Let's design it together.</b><br/>
 <a href="https://bayanbb.github.io">Portfolio</a> · <a href="https://www.linkedin.com/in/bayanalhashiim">LinkedIn</a> · <a href="mailto:baynalhashim@gmail.com">baynalhashim@gmail.com</a></p>
